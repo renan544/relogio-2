@@ -14,7 +14,6 @@ body{
 }
 
 .card {
-    background-color: #162755;
     color: #fff;
     padding: 30px;
     border-radius: 6px;
@@ -30,4 +29,16 @@ body{
 
 & h1 {
     margin-bottom: 30px;
+}
+
+
+.bg-manha {
+    background: rgb(61, 195, 236);
+}
+
+.bg-noite{
+    background: #162755;
+}
+.bg-tarde{
+    background-color: orange;
 }
